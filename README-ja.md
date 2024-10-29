@@ -23,12 +23,12 @@
 ### Day 1: 🚀 Getting started
 
 - [x] 導入とアイスブレイク
-- [ ] GitHub Actionsの基礎
-- [ ] YAMLの記法
-- [ ] 基本的なワークフローの記法
-- [ ] ワークフローを実行（trigger）するイベント
-- [ ] ジョブとステップ
-- [ ] :mag: Demo: ワークフローを作成する
+- [x] GitHub Actionsの基礎
+- [x] YAMLの記法
+- [x] 基本的なワークフローの記法
+- [x] ワークフローを実行（trigger）するイベント
+- [x] ジョブとステップ
+- [x] :mag: Demo: ワークフローを作成する
 - [ ] 🔨 Hands-on: [はじめてのワークフロー](hol/01-My-first-workflow-ja.md)
 - [ ] [ワークフローの記法](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions) 応用編
 - [ ] :coffee: 休憩
