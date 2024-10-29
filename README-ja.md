@@ -29,7 +29,7 @@
 - [x] ワークフローを実行（trigger）するイベント
 - [x] ジョブとステップ
 - [x] :mag: Demo: ワークフローを作成する
-- [ ] 🔨 Hands-on: [はじめてのワークフロー](hol/01-My-first-workflow-ja.md)
+- [x] 🔨 Hands-on: [はじめてのワークフロー](hol/01-My-first-workflow-ja.md)
 - [ ] [ワークフローの記法](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions) 応用編
 - [ ] :coffee: 休憩
 - [ ] GitHub Actions
