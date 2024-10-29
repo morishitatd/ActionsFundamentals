@@ -23,4 +23,4 @@ jobs:
         run: echo "ref branch name is:" ${{ github.ref }}
       - uses: actions/checkout@v4
       - name: Display Files in ${{ github.ref }} branch
-        run: echo tree
+        run: tree
